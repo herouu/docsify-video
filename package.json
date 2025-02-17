@@ -1,0 +1,17 @@
+{
+  "name": "docsify-video",
+  "version": "0.1.0",
+  "description": "docsify插入视频的plugin",
+  "main": "docsify-video.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "docsify",
+    "video",
+    "plugin"
+  ],
+  "author": "herouu",
+  "license": "MIT"
+
+}
